@@ -27,7 +27,7 @@ This project is a **Gesture Calculator** that uses **AI** and **Computer Vision*
 ## 🚀 Getting Started
 
 
-## Authors
+## Author
 
 - [@sandipanrakshit34](https://github.com/sandipanrakshit34)
 
