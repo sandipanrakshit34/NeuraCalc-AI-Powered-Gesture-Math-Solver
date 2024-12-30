@@ -10,6 +10,9 @@ This project is a **Gesture Calculator** that uses **AI** and **Computer Vision*
 - **AI-Powered**: Uses Google’s Generative AI to handle math problem solving.
 - **Web-based Interface**: Built with **Streamlit** for an interactive experience.
 
+## Access
+Deployed **App** => https://huggingface.co/spaces/sandipan23/NeuraCalc
+
 ## 💡 How It Works
 1. **Hand Detection**: Using **OpenCV** and **cvzone**, the system tracks hand movements through the webcam.
 2. **Gesture Recognition**: Specific gestures represent mathematical inputs (e.g., numbers, operators).
