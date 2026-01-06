@@ -1,4 +1,4 @@
-# 🎯 Gesture Calculator using AI and Computer Vision
+# 🎯 Gesture Calculator using AI and Computer Vision 
 
 This project is a **Gesture Calculator** that uses **AI** and **Computer Vision** to recognize hand gestures and solve mathematical problems in real time. The system captures hand movements through a webcam, interprets gestures as mathematical inputs, and computes results using AI.
 
